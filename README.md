@@ -2,7 +2,7 @@
 
 Quick AI is a comprehensive, full-stack AI-powered Software as a Service (SaaS) web application I built using the PERN (PostgreSQL, Express.js, React.js, Node.js) stack. This project allows users to leverage a variety of AI tools for content creation, image manipulation, and professional development. The application also features a robust subscription system to manage access to premium features.
 
-[Live Demo Link: https://quick-ai-five-tau.vercel.app/](https://quick-ai-five-tau.vercel.app/)
+Live Demo Link: https://quick-ai-five-tau.vercel.app/
 
 -----
 
